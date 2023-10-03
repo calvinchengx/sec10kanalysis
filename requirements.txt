@@ -98,7 +98,7 @@ typing_extensions==4.4.0
 tzdata==2023.3
 ujson==5.6.0
 unstructured==0.6.1
-urllib3==1.26.15
+urllib3==1.26.17
 uvicorn==0.20.0
 uvloop==0.17.0
 watchfiles==0.18.1
